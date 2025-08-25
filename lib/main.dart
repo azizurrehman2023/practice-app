@@ -2,6 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:newapps/Day1.dart';
 import 'package:newapps/Day2.dart';
 import 'package:newapps/Day3.dart';
+import 'package:newapps/Day4.dart';
+import 'package:newapps/Day5.dart';
+import 'package:newapps/Day6.dart';
+import 'package:newapps/Day8.dart';
+import 'package:newapps/Day9.dart';
 import 'package:newapps/NotesApp.dart';
 import 'package:newapps/blackScreen.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -23,7 +28,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
         textTheme: GoogleFonts.poppinsTextTheme(),
       ),
-      home: Day3(),
+      home: Day9(),
     );
   }
 }

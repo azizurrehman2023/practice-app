@@ -21,6 +21,7 @@ class Day3 extends StatelessWidget {
         children: [
           Center(
             child: CircleAvatar(
+              backgroundImage: AssetImage('assets/img.jpeg'),
               radius: (60),
             ),
           ),
