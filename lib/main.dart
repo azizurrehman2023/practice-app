@@ -8,6 +8,8 @@ import 'package:newapps/Day13.dart';
 import 'package:newapps/Day14.dart';
 import 'package:newapps/Day15.dart';
 import 'package:newapps/Day16.dart';
+import 'package:newapps/Day17.dart';
+import 'package:newapps/Day18.dart';
 import 'package:newapps/Day2.dart';
 import 'package:newapps/Day3.dart';
 import 'package:newapps/Day4.dart';
@@ -36,7 +38,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
         textTheme: GoogleFonts.poppinsTextTheme(),
       ),
-      home: Day16(),
+      home: Day18(),
     );
   }
 }
